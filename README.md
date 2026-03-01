@@ -1,8 +1,4 @@
-<div align="center">
-
-![Inventory MSU Banner](InventarisMSU/image.png)
-
-</div>
+<img width="1920" height="1080" alt="Inventory MSU" src="https://github.com/user-attachments/assets/1f383fcc-4a9c-4b1e-956c-53b29cb2fdd8" />
 
 # Inventory MSU
 
